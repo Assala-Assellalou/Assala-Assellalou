@@ -12,6 +12,6 @@
 🔹Python, Java, Julia, OCaml, C, ADA, HTML/CSS, React  
 🔹MATLAB, Simulink, Eclipse, VS Code, Jupyter Notebooks  
 
-🔗  Contact
+𝓒𝓸𝓷𝓽𝓪𝓬𝓽  
 🔹 Linkedin : [Assala Assellalou](https://www.linkedin.com/in/assala-assellalou/)  
 🔹 Email : assala.assellalou.eng@gmail.com   
