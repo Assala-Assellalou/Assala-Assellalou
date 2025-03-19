@@ -9,7 +9,8 @@
 🔹 High-Performance Computing & Big Data  
    
 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓛𝓪𝓷𝓰𝓪𝓰𝓮𝓼, 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼  
-
+🔹Python, Java, Julia, OCaml, C, ADA, HTML/CSS, React  
+🔹MATLAB, Simulink, Eclipse, VS Code, Jupyter Notebooks  
 
 
 🔗  
