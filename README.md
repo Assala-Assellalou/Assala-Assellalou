@@ -9,17 +9,8 @@
 🔹 High-Performance Computing & Big Data  
    
 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝓛𝓪𝓷𝓰𝓪𝓰𝓮𝓼, 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼  
-![Python](assets-tools-logos/python.jpg)  
-![Java](assets-tools-logos/java.jpg)  
-![Julia](assets-tools-logos/julia.png)  
-![React](assets-tools-logos/react.jpg)  
-![C](assets-tools-logos/c.png)  
-![HTML5](assets-tools-logos/html-css.jpg)  
-![MATLAB & Simulink](assets-tools-logos/matlab-simulink.png)  
-![Jupyter](assets-tools-logos/jupyter.jpg)  
-![Eclipse](assets-tools-logos/eclipse.png)  
-![VS Code](assets-tools-logos/vscode.jpg)  
-![OCaml](assets-tools-logos/ocaml.jpg)
+
+
 
 🔗  
 🔹 [LinkedIn](https://www.linkedin.com/in/assala-assellalou/)  
