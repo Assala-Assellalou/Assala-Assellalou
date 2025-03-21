@@ -1,4 +1,4 @@
-## Hi I am Assala 👋
+## Hi I am Assala, This is my new GitHub 👋
 
 ## Assala ASSELLALOU  
 🔹 Engineering Student in Computer Science | Master 1 in HPC & Big Data @ ENSEEIHT  
