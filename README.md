@@ -15,3 +15,4 @@
 ## Contact 
 🔹 Linkedin : [Assala Assellalou](https://www.linkedin.com/in/assala-assellalou/)  
 🔹 Email : assala.asll1@gmail.com   
+🔹 Email (new): assala.assellalou.eng@gmail.com
