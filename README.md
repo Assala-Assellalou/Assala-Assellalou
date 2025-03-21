@@ -14,4 +14,4 @@
 
 ## Contact 
 🔹 Linkedin : [Assala Assellalou](https://www.linkedin.com/in/assala-assellalou/)  
-🔹 Email : assala.assellalou.eng@gmail.com   
+🔹 Email : assala.asll1@gmail.com   
