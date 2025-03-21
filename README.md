@@ -1,17 +1,17 @@
 ## Hi I am Assala 👋
 
-### Assala ASSELLALOU  
+## Assala ASSELLALOU  
 🔹 Engineering Student in Computer Science | Master 1 in HPC & Big Data @ ENSEEIHT  
 🔹 2 Years of Preparatory Classes for Engineering Schools | MPSI - MP*  
 🔹 Baccalauréat Sciences Maths A | 18.39/20  
   
-### Specialization 
+## Specialization 
 🔹 High-Performance Computing & Big Data  
    
-### Programming Languages, Frameworks and Tools
+## Programming Languages, Frameworks and Tools
 🔹Python, Java, Julia, OCaml, C, ADA, HTML/CSS, React  
 🔹MATLAB, Simulink, Eclipse, VS Code, Jupyter Notebooks  
 
-### Contact 
+## Contact 
 🔹 Linkedin : [Assala Assellalou](https://www.linkedin.com/in/assala-assellalou/)  
 🔹 Email : assala.assellalou.eng@gmail.com   
