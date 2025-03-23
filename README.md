@@ -7,10 +7,7 @@
   
 ## Specialization 
 🔹 High-Performance Computing & Big Data  
-   
-## Programming Languages, Frameworks and Tools
-🔹Python, Java, Julia, OCaml, C, ADA, HTML/CSS, React  
-🔹MATLAB, Simulink, Eclipse, VS Code, Jupyter Notebooks  
+  
 
 ## Contact 
 🔹 Linkedin : [Assala Assellalou](https://www.linkedin.com/in/assala-assellalou/)  
