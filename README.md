@@ -11,4 +11,3 @@ This github was created in March 2025
 
 ## Contact 
 🔹 Linkedin : [Assala Assellalou](https://www.linkedin.com/in/assala-assellalou/)  
-🔹 Email : assala.asll1@gmail.com   
