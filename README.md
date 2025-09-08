@@ -1,7 +1,7 @@
 ## Hi I am Assala 👋, This is my new GitHub 
 This github was created in March 2025   
 ## Assala ASSELLALOU  
-🔹 Engineering Student in Computer Science | Master 1 in HPC & Big Data @ ENSEEIHT  
+🔹 Engineering Student in Computer Science | HPC & Big Data @ ENSEEIHT  
 🔹 2 Years of Preparatory Classes for Engineering Schools | MPSI - MP*  
 🔹 Baccalauréat Sciences Maths A | 18.39/20  
   
